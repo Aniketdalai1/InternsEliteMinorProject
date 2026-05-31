@@ -226,11 +226,6 @@ Please ensure your code follows consistent formatting and includes comments wher
 
 ---
 
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
 
 <div align="center">
   Made with ❤️ in C++ &nbsp;|&nbsp; Happy Learning! 🎓
